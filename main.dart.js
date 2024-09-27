@@ -50093,7 +50093,7 @@ return A.V(p.os(),$async$n5)
 case 4:case 3:p=$.a0U()
 if(!p.a)A.T(new A.wV())
 p=p.b.i(0,"API_URL")
-if(p==null)p=""
+if(p==null)p="https://nest-api-virid.vercel.app/api"
 q.a=p
 if(p.length===0)throw A.e(A.bJ("API URL not found or empty"))
 return A.P(null,r)}})
